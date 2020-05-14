@@ -1,5 +1,5 @@
 # Spring REST Service
-This is a REST API built with the Spring framework for HTTP requests.
+This is a REST service built with the Spring framework for HTTP requests.
 
  ## Setting up the Database
 
@@ -57,7 +57,7 @@ These instructions will get you a copy of the project up and running on your loc
 ### Prerequisites
 
 You will need:
-An existing instance of a SQL Server database. Refer to the Data Layer section of the repository.
+An existing instance of a SQL Server database. Refer to the "Setting up the database" section of the README.
 
 Eclipse (or any Java IDE you prefer). Here's a link to install:
 
@@ -89,7 +89,7 @@ You are now ready to run!
 
 ## Running Locally
 
-Run the project on your IDE. In your console log, you should see a Started a HealthC(AR) service in seconds message.
+Run the project on your IDE. In your console log, you should see a Started a Spring service in seconds message.
 
 Your service is now running! Open your internet browser, and type:
 
