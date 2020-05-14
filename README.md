@@ -67,7 +67,9 @@ https://www.eclipse.org/downloads/
 
 ### Installing
 
-After Eclipse is done installing, import this folder as a project.
+Download the zip file and export.
+
+After Eclipse is done installing, import the exported folder as a project.
 
 Locate for the applications.properties file in src/main/resources. The file should look like this:
 
