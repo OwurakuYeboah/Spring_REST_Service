@@ -82,6 +82,7 @@ spring.datasource.driverClassName=com.microsoft.sqlserver.jdbc.SQLServerDriver
 ```
 
 Here, you can change the database name, username and password to fit your SQL Server database.
+Note that the username and password correspond to the SQL authentication of your database.
 
 You are now ready to run!
 
